@@ -1,0 +1,2 @@
+# Fubon-Internship
+Daily note
